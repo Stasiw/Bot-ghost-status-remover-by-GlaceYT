@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PL"];
+const statusMessages = ["PLE3"];
 
 
 let currentIndex = 0;
