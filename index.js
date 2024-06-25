@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SM","SMOO"];
+const statusMessages = ["Banning Cheaters"];
 
 
 let currentIndex = 0;
